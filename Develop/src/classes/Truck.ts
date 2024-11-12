@@ -7,7 +7,7 @@ import AbleToTow from '../interfaces/AbleToTow.js';
 
 // Truck class that extends the Vehicle class
 class Truck extends Vehicle {
-  // Declare properties of the Truck class
+  // Properties of the Truck class
   vin: string;
   color: string;
   make: string;
