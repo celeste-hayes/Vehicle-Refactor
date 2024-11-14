@@ -1,7 +1,7 @@
 # Vehicle Simulator
 This is a TypeScript based command line application that allows users to create, manage, and perform actions with various vehicle types. Initially designed for cars, this app has been forked and extended to support trucks and motorbikes using standard object oriented programming principles and the inquirer package for interactive input.
 
-Since this is a command-line application and won't be deployed, you can view a [video walkthrough](...) that demonstrates its functionality.
+Since this is a command-line application and won't be deployed, you can view a [video walkthrough](https://drive.google.com/file/d/1-_rs9StgLHVvnX6cbhy91rwW1_XN8dGL/view?usp=sharing) that demonstrates its functionality.
 
 ## Table of Contents
 * [Features](#features) 
