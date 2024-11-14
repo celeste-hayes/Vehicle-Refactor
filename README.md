@@ -4,22 +4,22 @@ This is a TypeScript based command line application that allows users to create,
 Since this is a command-line application and won't be deployed, you can view a [video walkthrough](...) that demonstrates its functionality.
 
 ## Table of Contents
- * [Features](#features) 
- * [Installation](#installation)
- * [Usage](#usage)
- * [License](#license)
- * [Contributing](#contributing)
- * [Contact Information](#contact-information)
+* [Features](#features) 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Contact Information](#contact-information)
 
 ## Features
 This app supports Cars, Trucks, and Motorbikes, offering a variety of interactive features to enhance the user experience:
 
-  #### Vehicle Creation: 
-  * Users can create new vehicles by selecting from three options: Car, Truck, or Motorbike. The application will prompt the user for relevant details based on their vehicle choice 
-  #### Vehicle Selection: 
-  * Users can choose from a list of previously created vehicles, making it easy to interact with.
-  #### Vehicle Actions: 
-  * Once a vehicle is selected or created, users can perform a variety of actions (e.g. start, stop, accelerate vehicle) with prompts. 
+#### Vehicle Creation: 
+* Users can create new vehicles by selecting from three options: Car, Truck, or Motorbike. The application will prompt the user for relevant details based on their vehicle choice 
+#### Vehicle Selection: 
+* Users can choose from a list of previously created vehicles, making it easy to interact with.
+#### Vehicle Actions: 
+* Once a vehicle is selected or created, users can perform a variety of actions (e.g. start, stop, accelerate vehicle) with prompts. 
 
 Each action provides real time feedback in the command line, allowing users to see the result of their interaction.
 
@@ -49,4 +49,4 @@ This project is licensed under the ISC license.
 Contributions welcome for this project! Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Contact Information
- * GitHub: celeste-hayes
+* GitHub: celeste-hayes

@@ -407,6 +407,7 @@ class Cli {
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin && this.vehicles[i] instanceof Truck) {
               this.findVehicleToTow();
+              return;
             }
           }
         } else if (answers.action === 'Perform wheelie') {
@@ -414,7 +415,6 @@ class Cli {
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin && this.vehicles[i] instanceof Motorbike) {
               (this.vehicles[i] as Motorbike).performWheelie();
-              return;
             }
           }         
         } else {
